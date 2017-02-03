@@ -106,6 +106,9 @@ TARGET_RECOVERY_DEVICE_MODULES := libinit_lavender
 # LMKD
 TARGET_LMKD_STATS_LOG := true
 
+# Memory Config
+MALLOC_SVELTE := true
+
 # Partitions
 BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
 BOARD_SUPPRESS_SECURE_ERASE := true
