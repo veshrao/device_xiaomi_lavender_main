@@ -200,7 +200,7 @@ PRODUCT_DEFAULT_PROPERTY_OVERRIDES += \
     ro.surface_flinger.max_virtual_display_dimension=4096
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    debug.sf.disable_backpressure=1 \
+    debug.sf.disable_backpressure=0 \
     debug.sf.enable_gl_backpressure=1
 
 # QCOM
