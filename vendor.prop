@@ -117,6 +117,7 @@ ro.vendor.display.sensortype=2
 vendor.gralloc.enable_fb_ubwc=1 
 vendor.display.enable_default_color_mode=0 
 ro.vendor.display.cabl=0 
+debug.hwui.use_buffer_age=false
 
 # DRM
 drm.service.enabled=true
