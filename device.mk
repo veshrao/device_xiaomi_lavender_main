@@ -389,7 +389,11 @@ PRODUCT_PACKAGES += \
 
 # AOT Preload
 PRODUCT_DEXPREOPT_SPEED_APPS += \
-    SystemUI
+    Launcher3QuickStep \
+    Settings \
+    SystemUI \
+    Nexuslauncher \
+    lawnchair
 
 # Seccomp policy
 PRODUCT_COPY_FILES += \
