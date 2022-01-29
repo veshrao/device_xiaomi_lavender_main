@@ -196,3 +196,6 @@ vendor.vidc.enc.disable.pq=true
 
 # disable dual isp sync by default
 persist.vendor.camera.dual.isp.sync=0
+
+# Adoptable Storage
+ro.crypto.volume.options=aes-256-xts
