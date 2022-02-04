@@ -408,6 +408,10 @@ PRODUCT_PACKAGES += \
     android.hardware.sensors@1.0-impl \
     android.hardware.sensors@1.0-service
 
+# DeviceDoze
+PRODUCT_PACKAGES += \
+    DeviceDoze    
+
 # Telephony
 PRODUCT_PACKAGES += \
     extphonelib \
