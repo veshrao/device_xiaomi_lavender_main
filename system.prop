@@ -25,3 +25,6 @@ ro.config.sdha_apps_bg_min=8
 
 # Seamless transfer
 sys.fflag.override.settings_seamless_transfer=true
+
+# Disable vsync for cpu rendered apps
+debug.cpurend.vsync=false
